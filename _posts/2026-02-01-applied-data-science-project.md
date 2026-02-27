@@ -11,11 +11,7 @@ As the hotel will be based in Portugal, guests will likely be tourists from Euro
 Business Goals: Support the establishment of the hotel by lowering the wastage of resources which could arise from focusing on factors that are not as important. 
 Business Objective 1: To predict whether customers will cancel their bookings & factors affecting it.
 Business Objective 2: Identify key themes in reviews to prioritise operations and guide establishment of the new hotel
-
-
-
-
-
+#
 ## Work Accomplished
 Document your work done to accomplish the outcome
 
