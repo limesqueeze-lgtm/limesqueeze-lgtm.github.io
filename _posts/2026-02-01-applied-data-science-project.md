@@ -22,6 +22,7 @@ Collect or scrape online reviews of target customer groups ie. tourists and trav
 <img width="1449" height="418" alt="image" src="https://github.com/user-attachments/assets/53fe7a6d-2783-4d97-a275-408a779d7ad0" />
 Booking dataset is based on real world data from hotels in Portugal and HRAST utilises reviews from hotel reviews in Europe, which is the target group of travellers.
 Hotel booking dataset has 119,390 rows and HRAST has 23,113 rows.
+
 ### Clean
 <img width="798" height="309" alt="image" src="https://github.com/user-attachments/assets/50473475-10a1-435d-a9ed-41b33a0e825c" />
 Check for missing rows: Nil
@@ -29,9 +30,11 @@ Remove redundant "ID" column
 Check for duplicated rows
 - Rationale is to not inflate certain topics
 - from 23,113 to 23,105 rows
+
 ### Preprocessing
 <img width="943" height="857" alt="image" src="https://github.com/user-attachments/assets/92996479-fbe1-43a5-9a81-63128ab821e2" />
 Conducted in Python.
+
 ### Modelling
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
