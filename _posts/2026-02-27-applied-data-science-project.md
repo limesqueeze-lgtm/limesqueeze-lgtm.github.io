@@ -239,5 +239,5 @@ As mentioned, reviews sometimes come from a very personal and emotionally charge
 All in all, the results and findings from the project should be used to guide the establishment and implementation of operations of the hotel and should not be treated as the end-all. The entire process should be fully transparent so as to maintain trust in the model and credibility of its recommendations. 
 
 ## Source Codes and Datasets
-Upload your model files and dataset into a GitHub repo and add the link [here](ttps://github.com/limesqueeze-lgtm/ITD214-Project)
+Upload your model files and dataset into a GitHub repo and add the link [here](https://github.com/limesqueeze-lgtm/ITD214-Project)
 
