@@ -1,14 +1,12 @@
-title: Data Science Project Showcase
+title: ITD214 Data Science Project Showcase
 author:
-  name: 8454144M
+  name: 8454144M - Jeshua Nelson Lim
   email: 8454144M@myaccount.nyp.edu.sg
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an description for your site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  This is for ITD214 project. 
 
 # Build settings
 
