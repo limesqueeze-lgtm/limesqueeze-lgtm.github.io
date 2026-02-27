@@ -5,13 +5,15 @@ title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---
 ## Project Background
-Provide an overview of your team's project business goals and objectives and state the objective that you are working on. 
+Business scenario: Group2 Global Enterprise is planning to set up a hotel in Portugal. Apart from internal resource management, hotels also experience wastage of resources due to external factors in the form of guest behaviour such as booking cancellation or mismatch in guest expectations & preferences. 
+As the hotel will be based in Portugal, guests will likely be tourists from Europe.
+#
+Business Goals: Support the establishment of the hotel by lowering the wastage of resources which could arise from focusing on factors that are not as important. 
+Business Objective 1: To predict whether customers will cancel their bookings & factors affecting it.
+Business Objective 2: Identify key themes in reviews to prioritise operations and guide establishment of the new hotel
 
-Business Objective: ... 
-Goal: ...
 
-<img width="625" height="123" alt="image" src="https://github.com/user-attachments/assets/bcb98464-7b10-4429-ba56-852c1e61f207" />
-test picture
+
 
 
 ## Work Accomplished
