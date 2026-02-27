@@ -240,5 +240,5 @@ All in all, the results and findings from the project should be used to guide th
 
 ## Source Codes and Datasets
 Upload your model files and dataset into a GitHub repo and add the link here. 
-[ITD214_cleaned_reviews.xlsx](https://github.com/user-attachments/files/25591143/ITD214_cleaned_reviews.xlsx)
+[[ITD214_cleaned_reviews.xlsx](https://github.com/user-attachments/files/25591143/ITD214_cleaned_reviews.xlsx)](https://github.com/limesqueeze-lgtm/ITD214-Project)
 
