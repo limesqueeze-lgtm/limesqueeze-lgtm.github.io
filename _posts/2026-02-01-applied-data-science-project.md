@@ -1,5 +1,4 @@
 ---
-layout: post
 author: Jeshua Nelson Lim - 8454144M
 title: "Applied Data Science Project Documentation"
 categories: ITD214
